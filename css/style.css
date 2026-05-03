@@ -92,6 +92,11 @@ body {
     height: 18px;
 }
 
+.social-link-pp {
+    width: 150px;
+    height: 150px;
+}
+
 /* Schedule Header */
 .schedule-header {
     display: flex;

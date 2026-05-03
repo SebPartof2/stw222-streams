@@ -16,21 +16,1128 @@
       "title": "Minecraft Monday",
       "category": "minecraft",
       "startTime": "19:00",
-      "description": "Server info:\nEvolved Survival 1.21.10 (& 1.21.11)"
+      "description": "Server info:\nEvolved Survival 1.21.10 (& 1.21.11)",
+      "image": ""
     },
     {
       "date": "2025-12-23",
       "title": "Anchorage Center",
       "category": "atc",
       "startTime": "19:00",
-      "description": "Tuesday on Anchorage Center"
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
     },
     {
       "date": "2025-12-26",
       "title": "Boxing Day Staff up",
       "category": "atc",
+      "startTime": "14:30",
+      "description": "Indy Center\nhttps://flyindycenter.com/events/e81a8769-b30d-4bf9-ae93-1af7e0bfc11e  \nThere might be a chance of this stream not happening. I'm not sure whats happening the day after Christmas.",
+      "image": "https://i.postimg.cc/Y26SbtP9/Staff-Up.png"
+    },
+    {
+      "date": "2025-12-27",
+      "title": "no stream",
+      "category": "flying",
       "startTime": "19:00",
-      "description": "Indy Center\nhttps://flyindycenter.com/events/e81a8769-b30d-4bf9-ae93-1af7e0bfc11e  || There might be a chance of this stream not happening. I'm not sure whats happening the day after Christmas."
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2025-12-28",
+      "title": "Flights around Hawaii - Mele Kalikimaka - Hawaiian Holiday",
+      "category": "flying",
+      "startTime": "13:45",
+      "description": "Routes TBD, but it will include PHKO. This will be a shorter stream due to a family gathering",
+      "image": "https://i.imgur.com/H8SiMVo.jpeg"
+    },
+    {
+      "date": "2025-12-29",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "Evolved Survival 1.21.10 (& 1.21.11)\nplay.evolvedsurvival.org\nhttps://findmcserver.com/server/evolvedsurvival",
+      "image": ""
+    },
+    {
+      "date": "2025-12-30",
+      "title": "GA Tuesday | KCCR Fly-In",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Round robbin: KCCR > KAPC > KSTS > KSAC > KCCR\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-30dec2025\nhttps://forums.vatusa.net/index.php?topic=12246.0",
+      "image": "https://i.imgur.com/sh56SDp.png"
+    },
+    {
+      "date": "2025-12-31",
+      "title": "Wednesday ATC",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Indy Center",
+      "image": ""
+    },
+    {
+      "date": "2026-1-1",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "The best center!",
+      "image": ""
+    },
+    {
+      "date": "2026-1-2",
+      "title": "New Year, New York",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KLGA > KBTV > N51 > KLGA\nhttps://forums.vatusa.net/index.php?topic=12301.0\nThe stream will be a little shorter due to student ATC training.",
+      "image": "https://i.imgur.com/sSbkKxp.png"
+    },
+    {
+      "date": "2026-1-3",
+      "title": "New Year, Nashville",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Indy Center || Exact position: PXV81 - The west half of ZID, FL240 and above\nhttps://forums.vatusa.net/index.php?topic=12297.0\nhttps://flyindycenter.com/events/7e6e609f-536e-4754-9f05-b6fa810bc183\nhttps://memphisartcc.com/events/new-year-nashville-62737",
+      "image": "https://i.imgur.com/8oRHxOK.jpeg"
+    },
+    {
+      "date": "2026-1-4",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": ""
+    },
+    {
+      "date": "2026-1-5",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "New Modpack, Same channel.\nWe'll be playing a new pack called StoneBlock4 on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-1-6",
+      "title": "No stream",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "No stream due to ATC training",
+      "image": ""
+    },
+    {
+      "date": "2026-1-7",
+      "title": "Indy Center | I-64 staff-up",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "https://flyindycenter.com/events/3f5a2d01-b7d8-4b5c-ad9d-3fd121b8b3d1",
+      "image": ""
+    },
+    {
+      "date": "2026-1-8",
+      "title": "Fly-In Thursday | CYYZ",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "This week's TPC Fly-In Thursday is to Toronto Pearson International Airport (CYYZ)!\nAircraft: Starship\nRoute: KMKE SQUIB VIO CLLEM RRALF3 KPTK ZETTR4 TANKO APDAX NUBER6 CYYZ VFR dct KBUF",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/8babe7e8-9c7d-4a35-8e80-490685c78ac0/8jan2026.png"
+    },
+    {
+      "date": "2026-1-9",
+      "title": "Southwest VA",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route: KMSP > KSTL > KDTW > to maybe KMDW",
+      "image": ""
+    },
+    {
+      "date": "2026-1-10",
+      "title": "UPS VA Fly-in to KSDF | Indy Center",
+      "category": "atc",
+      "startTime": "16:50",
+      "description": "Start time is 2200z or maybe earlier\nUPSVAC is flying into Louisville (KSDF) with an estimated arrival time of 2300z. I will control Indy Center.\nhttps://flyindycenter.com/events/f7a7d47c-7696-49cd-a896-e0a73fb92fc1",
+      "image": "https://i.imgur.com/JpqqZ2u.png"
+    },
+    {
+      "date": "2026-1-11",
+      "title": "No stream",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "No stream",
+      "image": ""
+    },
+    {
+      "date": "2026-1-12",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-1-13",
+      "title": "Indy Center | Pilot Club GA Tuesday",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "TPC is flying between CRW and ILN in a crossfire style where they meet in the middle and go to the opposite destination.\nI will be staffing the south half of Indy Center.\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-13jan2026\nhttps://flyindycenter.com/events/20a71018-74a5-44d7-9528-9b87308842eb",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1eea3c8d-8b5a-4e84-a85d-f04ae1ab9536/GAT2_16x9_CROSSFIRE.png"
+    },
+    {
+      "date": "2026-1-14",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Nearby event - Winter Capital Handoff: https://forums.vatusa.net/index.php?topic=12305.0",
+      "image": ""
+    },
+    {
+      "date": "2026-1-15",
+      "title": "TPC Explorer Missions - Regional Pilot",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KORD - KMSP - KMCI - KCVG - KORD in a Citation\nhttps://www.thepilotclub.org/blog/tpc-explorer-flight-missions-jan2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/5954f353-4b02-4983-97d2-e4f4dbcd4456/Screenshot+2025-12-28+at+13.04.24.png"
+    },
+    {
+      "date": "2026-1-16",
+      "title": "Honoring the Dream - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Atlanta is Honoring the Dream at KATL\nhttps://flyindycenter.com/events/a8a255c7-8153-451f-84e7-474c36313af3\nhttps://forums.vatusa.net/index.php?topic=12316.0",
+      "image": "https://www.ztlartcc.org/storage/event_banners/reduced/1766153670.jpg"
+    },
+    {
+      "date": "2026-1-17",
+      "title": "Escape to the Desert",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KHND > KVGT > KHND https://tinyurl.com/STW-011726\nhttps://forums.vatusa.net/index.php?topic=12312.0",
+      "image": "https://i.imgur.com/FmLgnLQ.jpeg"
+    },
+    {
+      "date": "2026-1-18",
+      "title": "Sunday Funday - Anchorage Center",
+      "category": "atc",
+      "startTime": "14:30",
+      "description": "TPC is flying from CYXY to PANC starting 3PM EST / 11AM Alaska time\nhttps://www.thepilotclub.org/dispatch/sunday-funday-18jan2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/2320b1d4-d6e7-4424-8f9c-0d85d04eddce/SF_16x9_TCPGP.png"
+    },
+    {
+      "date": "2026-1-19",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-1-20",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
+    },
+    {
+      "date": "2026-1-21",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": ""
+    },
+    {
+      "date": "2026-1-22",
+      "title": "Fly-In Thursday to KHOU",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KMSY > KBPT > KHOU in the Bonanza\nTPC pilots are flying to Houston Hobby\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-22jan2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/4cee2da0-5da0-4b14-8dd3-d70ca4b9e8fc/22jan2026.png"
+    },
+    {
+      "date": "2026-1-23",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:30",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-1-24",
+      "title": "Fly-In and out of KPDX",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KBIL > KPDX > KBOI\nhttps://forums.vatusa.net/index.php?topic=12320.0",
+      "image": "https://zseartcc.org/public/events/logos/361.png?v=1766271781"
+    },
+    {
+      "date": "2026-1-25",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-1-26",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-1-27",
+      "title": "TPC GA Tuesday - Texas to Louisiana",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KCXO to KBPT to KLCH\nroute: https://tinyurl.com/STW-GAT-0127\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-27jan2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png"
+    },
+    {
+      "date": "2026-1-28",
+      "title": "Mountains `til Morning - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Position: TBA\nThere is a giveaway for 3 pilot winners from Just Flight, Check the event link for info\nhttps://forums.vatusa.net/index.php?topic=12311.0\nhttps://flyindycenter.com/events/c5d695a7-d5e3-4b76-b71d-9156396c8a90\nTPC is flying in the area: https://www.thepilotclub.org/dispatch/bush-wednesday-28jan2026",
+      "image": "https://i.postimg.cc/nL57yknG/Mountains-til-Morning.png"
+    },
+    {
+      "date": "2026-1-29",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-1-30",
+      "title": "Indy Center - Northeast Corridor FNO",
+      "category": "Atc",
+      "startTime": "18:50",
+      "description": "https://forums.vatusa.net/index.php?topic=12318.0\nhttps://flyindycenter.com/events/6ccd7ae9-9fb6-47d8-a696-e7789faa9393",
+      "image": "https://atchub.bvartcc.com/eventheaders/17e48fa6e7325bdc8f3aed746140ee25.png"
+    },
+    {
+      "date": "2026-1-31",
+      "title": "Anchorage Center - Vintage Cross the Inside Passage",
+      "category": "Atc",
+      "startTime": "08:00",
+      "description": "12 or more pilots are flying PANC to KSEA with classic aircraft.\nhttps://zanartcc.org/events/58\nhttps://docs.google.com/document/d/1VDanw9YUeMy8htpF3T8j7NK6Gt2mpJyDKq7xGrc07r8/edit?usp=sharing\nThere are several participants that are streaming their perspective:\n(host) https://www.twitch.tv/slantalphaadventures\nhttps://www.twitch.tv/melvinleroy\nhttps://www.twitch.tv/jefforyb",
+      "image": "https://pbs.twimg.com/media/G5LnCP0XcAANyU6?format=jpg&name=large"
+    },
+    {
+      "date": "2026-2-1",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-2-2",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-2-3",
+      "title": "No stream",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "No stream due to ATC training",
+      "image": ""
+    },
+    {
+      "date": "2026-2-4",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-5",
+      "title": "ZTL Pilot Passport Challenge - Airline captain",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Callsign: GTX341\nAircraft: BE58 Beechcraft Baron\nDeparting KTCL to finish up the Corporate Pilot passport. Then KBHM > KCSG > KMCN > KAHN.\nThis callsign and aircraft combo is a thing: https://www.flightradar24.com/data/airlines/gtx/fleet\nhttps://www.ztlartcc.org/pilot_passport",
+      "image": ""
+    },
+    {
+      "date": "2026-2-6",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-7",
+      "title": "Hail Mary in the Bay - SWA VA",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KSEA > KSJC > KLGB\nSlot times are required if you fly in the same event\nhttps://superbowl2026.oakartcc.org\nhttps://forums.vatusa.net/index.php?topic=12333.0",
+      "image": "https://i.imgur.com/iUyAALH.png"
+    },
+    {
+      "date": "2026-2-8",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-2-9",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-2-10",
+      "title": "No stream - ATC training",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "Im training a student tonight. No stream.",
+      "image": ""
+    },
+    {
+      "date": "2026-2-11",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-12",
+      "title": "Fly-in Thursday to KBUF",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KPIE > KMDW (or KMKE) > KBUF in the Starship\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-12feb2026\nhttps://forums.vatusa.net/index.php?topic=12306.0",
+      "image": "https://clevelandcenter.org/files/events/33042088.png"
+    },
+    {
+      "date": "2026-2-13",
+      "title": "Feel the Love FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KDAL > KMCI > KDFW\nhttps://www.thepilotclub.org/dispatch/fno-13feb2026\nhttps://forums.vatusa.net/index.php?topic=12309.0",
+      "image": "https://i.imgur.com/oSMiKbZ.png"
+    },
+    {
+      "date": "2026-2-14",
+      "title": "The day of Indy Center - 14 hours on the 14th",
+      "category": "atc",
+      "startTime": "11:00",
+      "description": "14 hours of indy center. Do i have a life? probably not...",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-15",
+      "title": "No stream",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "No stream - ATC training",
+      "image": ""
+    },
+    {
+      "date": "2026-2-16",
+      "title": "Anchorage Center - day 1",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Monday on Anchorage Center. SlantAlphaAdventures is flying in Alaska, so i'll staff it for him.",
+      "image": ""
+    },
+    {
+      "date": "2026-2-17",
+      "title": "Anchorage Center - day 2",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
+    },
+    {
+      "date": "2026-2-18",
+      "title": "Hoosier-grass Staff up | Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Featuring KEVV, KOWB and surrounding approach airspace\nhttps://flyindycenter.com/events/01b23ab0-7f6d-4cc5-8e37-2ce1c2ff50bd",
+      "image": "https://i.imgur.com/SwGSc5N.jpeg"
+    },
+    {
+      "date": "2026-2-19",
+      "title": "TPC Explorer Missions - High Altitude",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KJAC > KEGE > KASE > KTEX > KSEZ in the C750\nhttps://www.thepilotclub.org/blog/tpc-explorer-flight-missions-feb2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/a7cb1599-65fb-4b82-843f-b33b5f1f570d/explorer_high_altitude.png"
+    },
+    {
+      "date": "2026-2-20",
+      "title": "The New York FNO: Love is in the Air",
+      "category": "flying",
+      "startTime": "18:45",
+      "description": "KLGA > KCLE > KJFK\nIm starting slightly early to hopefully not be stuck in as long of a line\nhttps://forums.vatusa.net/index.php?topic=12338.0\nhttps://www.thepilotclub.org/dispatch/fno-20feb2026",
+      "image": "https://zny-uploads.s3.amazonaws.com/images-banners/Bc1OjaRf7Zqlp2zq95wfA8XSv3akbJRryqVcFeaS.png"
+    },
+    {
+      "date": "2026-2-21",
+      "title": "UPSVAC Fly-out of KSDF",
+      "category": "atc",
+      "startTime": "11:00",
+      "description": "UPSVAC is flying out of SDF starting around 1700z. We will staff the airspace starting an hour prior",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-22",
+      "title": "Memphis Freight Night - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Memphis i having a big Sunday Staff-up, so i'll join them in staffing.\nhttps://forums.vatusa.net/index.php?topic=12300.0",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KBDCR5EZ15609M2VQ6E9DEWY.png"
+    },
+    {
+      "date": "2026-2-23",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "Today, we'll investigate some other modpacks. Theres many ive seen around, both new and old that i at least want to load up once.",
+      "image": ""
+    },
+    {
+      "date": "2026-2-24",
+      "title": "GA Tuesday: Red Rock",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "NM90 - KSAD - KPAN - KSEZ\nhttps://tinyurl.com/STW-GAT022426\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-24feb2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png"
+    },
+    {
+      "date": "2026-2-25",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12341.0",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-26",
+      "title": "Fly-In Thursday: Chicago",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KMSP > KDSM > KORD\nKMSP RST1 RST MCW J25 DSM KDSM ICUBS BENNR FYTTE7 KORD\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-26feb2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png"
+    },
+    {
+      "date": "2026-2-27",
+      "title": "Caribbean FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "TNCM - TBPB - TJSJ\nhttps://forums.vatusa.net/index.php?topic=12353.0",
+      "image": "https://live.staticflickr.com/65535/55112663674_8c4a13a532_b.jpg"
+    },
+    {
+      "date": "2026-2-28",
+      "title": "Motown to Midtown Crossfire - Indy Center",
+      "category": "atc",
+      "startTime": "18:40",
+      "description": "Aircraft will be flying between DTW and ATL with multiple routes going either direction. This should be an interesting one since all of those aircraft overfly Indy Center",
+      "image": "https://clevelandcenter.org/files/events/21141432.png"
+    },
+    {
+      "date": "2026-3-1",
+      "title": "Memphis or Nashville approach",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I need to get my hours for ZME for the quarter, so i'll staff MEM or BNA on this random sunday",
+      "image": ""
+    },
+    {
+      "date": "2026-3-2",
+      "title": "Minecraft Monday : Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "We found a new modpack last week and made our own server for it. There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg"
+    },
+    {
+      "date": "2026-3-3",
+      "title": "no stream - ATC training",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "Sorry, Indy Center tomorrow",
+      "image": ""
+    },
+    {
+      "date": "2026-3-4",
+      "title": "Indy Center Weekly Staffup - KCVG",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Featuring KCVG / KLUK\nhttps://flyindycenter.com/events/01104fad-4a58-4c8c-bb5a-d459f34b5f2b",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-3-5",
+      "title": "no stream - ATC training",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "Sorry, SoCal tomorrow",
+      "image": ""
+    },
+    {
+      "date": "2026-3-6",
+      "title": "Spring into SoCal",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "I plan to fly VFR KLAX > SAN > BUR > SNA\nhttps://tinyurl.com/STW030626\nhttps://forums.vatusa.net/index.php?topic=12352.0",
+      "image": "https://live.staticflickr.com/65535/55112665864_dea6a73ee0_b.jpg"
+    },
+    {
+      "date": "2026-3-7",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "Lego Starwars: the Complete edition. I want to aim for about 90% completion.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-3-8",
+      "title": "The Party at Palm Beach",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KATL > KPBI > KTPA",
+      "image": "https://i.gyazo.com/3523df356f39c56ece92ecc719a488e3.png"
+    },
+    {
+      "date": "2026-3-9",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg"
+    },
+    {
+      "date": "2026-3-10",
+      "title": "GA Tuesday: KYNG Fly-in",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "??? > KCRW > KYNG\nGA FLy-in to KYNG under Cleaveland Center\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-10mar2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/11945a6a-7e57-4eba-895f-7b32f662c32c/GAT2_16x9_FLY-IN.png"
+    },
+    {
+      "date": "2026-3-11",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-3-12",
+      "title": "Fly-In Thursday: KCAE",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Columbia, SC, Columbia Metro.\nKTRI > KGSO > KCAE > KAGS\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-12mar2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png"
+    },
+    {
+      "date": "2026-3-13",
+      "title": "Northern Crossings IX",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KCOS > KDEN > KMSP\nhttps://www.thepilotclub.org/dispatch/fno-13mar2026\nhttps://forums.vatusa.net/index.php?topic=12359.0",
+      "image": "https://lakevilleweather.com/zmp/NorthernCrossingIX.jpg"
+    },
+    {
+      "date": "2026-3-14",
+      "title": "vUSAFC - Free Beverage and Chicken Fly-in",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://docs.google.com/document/d/1Nl8Dhhq901cJJf5T-t8QhTimPFu3z13GRNtss6BIFVM/edit?tab=t.0\nhttps://skyvector.com/?ll=35.54474201471883,-118.03015136337336&chart=301&zoom=6&fpl=%20KWHP%203424N11827W%203431N11807W%203504N11810W%203522N11759W%203541N11753W%203607N11758W%203619N11800W%203621N11736W%203649N11747W",
+      "image": "https://d39wt4ujv11jzb.cloudfront.net/6645/c189/6645c1895cd6a392711834.jpg"
+    },
+    {
+      "date": "2026-3-15",
+      "title": "Sunday Funday - Indy Center",
+      "category": "atc",
+      "startTime": "14:00",
+      "description": "The Pilot Club is flying KIND to KRDU",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-3-16",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg"
+    },
+    {
+      "date": "2026-3-17",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
+    },
+    {
+      "date": "2026-3-18",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-3-19",
+      "title": "Thursday Explorer",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "TPC Explorer missions - KIAH > KMSY > KPIT > KLGA\nhttps://www.thepilotclub.org/blog/tpc-explorer-flight-missions-mar2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/f8869d1d-be99-4c1d-8cb5-1a73be5eea20/explorer_home_spring_swing.png"
+    },
+    {
+      "date": "2026-3-20",
+      "title": "Anchorage Center - Mountain Wave FNO",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "starts 2359z, featuring CYVR, CYLW, CYYG, PANC\nhttps://forums.vatusa.net/index.php?topic=12379.0\nif you are using the vatusa S3+ thing in ZAN, just sign up on the ZAN website! https://www.zanartcc.org/events/59\nMy position: Sector 8 over an area defined as approvimately PAKT to PAYA across the width of the Alaska panhandle",
+      "image": "https://live.staticflickr.com/65535/55133101484_ac2794834a_b.jpg"
+    },
+    {
+      "date": "2026-3-21",
+      "title": "Indy Center - vZDC Annual Cherry Blossom Fly-in",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "featuring KIAD, KBWI, KDCA\nhttps://forums.vatusa.net/index.php?topic=12342.0",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-22",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "Lego Starwars: the Complete edition. I want to aim for about 90% completion.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910",
+      "offset": "240"
+    },
+    {
+      "date": "2026-3-23",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-24",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-25",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Featured fields: HUF, BMG, IND\nhttps://flyindycenter.com/events/988de2fb-7556-499b-ad57-4ed65453c2c9\nhttps://forums.vatusa.net/index.php?topic=12372.0\nhttps://my.vatsim.net/events/indy-showers-terre-haute-flowers",
+      "image": "https://i.postimg.cc/6Q1Mj9J0/IND-HUF-Staff-Up(1).png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-26",
+      "title": "Steel City Surge - Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Fly-in or out of KPIT\nhttps://forums.vatusa.net/index.php?topic=12331.0\nTPC is also flying in: https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-26mar2026",
+      "image": "https://clevelandcenter.org/files/events/45004934.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-27",
+      "title": "Texas Triangle FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KSAN > KHOU > KDAL\nhttps://forums.vatusa.net/index.php?topic=12377.0",
+      "image": "https://live.staticflickr.com/65535/55144279090_7ec305cff9_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-28",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-29",
+      "title": "Need for Speed: Carbon",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lets start a new game from my childhood: Need For Speed Carbon.",
+      "image": "https://live.staticflickr.com/65535/55164823448_3fe856d3b7_b.jpg",
+      "offset": "180"
+    },
+    {
+      "date": "2026-3-30",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-3-31",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": "",
+      "offset": "330"
+    },
+    {
+      "date": "2026-4-1",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-2",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12299.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-3",
+      "title": "FNO Down Under",
+      "category": "flying",
+      "startTime": "19:30",
+      "description": "YPAD > YMML > YSSY\nhttps://forums.vatusa.net/index.php?topic=12392.0\n There is lots of info for the event in the vatusa post. please read and understand it if you want to fly this event",
+      "image": "https://i.imgur.com/MKT8M48.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-4",
+      "title": "HONK VI: The Real Honkwives of Boston Approach",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://forums.vatusa.net/index.php?topic=12376.0",
+      "image": "https://atchub.bvartcc.com/eventheaders/7ed4eca567456c7413564aa7a610745a.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-5",
+      "title": "no stream - easter",
+      "category": "no stream",
+      "startTime": "15:45",
+      "description": "none",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-6",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-7",
+      "title": "TPC Birthday Week | GA Tuesday",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "This week is Pilot Club's Birthday week. There will be many events for the week. For this Tuesday, should i staff Potomac approach around Richmond? or should i fly this GA Tuesday?\nIf i fly: KCGS > KOXB > KRIC in a small GA craft\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-7apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/e4495f75-7e0f-42ed-938b-62bfae3b86ed/GAT2_16x9_birthday_vUSA_FC.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-8",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nLouisville (KSDF, KLOU) Staff-up: https://flyindycenter.com/events/366d58d5-a92b-4040-868f-1d0c20071964",
+      "image": "https://live.staticflickr.com/65535/55190364351_e8074244fe_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-9",
+      "title": "TPC Birthday Week | Fly-In Thursday: KBUF",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Fly-In Thursday to Buffalo, NY (KBUF)\nKAIK > KCVG or KLUK > KBUF\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-9apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/4cadc5b4-753c-41a3-a141-a0c24a052230/SBR_FIT2__birthday.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-10",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nI will most likely be working the east half of Indy Center (FWA transition into Chicago)\nNearby event: https://forums.vatusa.net/index.php?topic=12383.0",
+      "image": "https://zauartcc.sfo3.digitaloceanspaces.com/production/events/1772963194253-GreatAmericanFNO.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-11",
+      "title": "Orlando Live",
+      "category": "flying",
+      "startTime": "18:30",
+      "description": "KORL > KRYY > ???\nhttps://forums.vatusa.net/index.php?topic=12226.0",
+      "image": "https://live.staticflickr.com/65535/55190787890_c57bc4b294_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-12",
+      "title": "Indy Center - The Dulles Night Shift",
+      "category": "atc",
+      "startTime": "17:55",
+      "description": "ZDC is lighting up Dulles airport this sunday night. I shall staff ZID to their west\nhttps://forums.vatusa.net/index.php?topic=12385.0",
+      "image": "https://utfs.io/f/4LL8Da7DF6qXoUNLjlXe3IdP4F5uGwEqmNUlc6tzK0pQ8Shn",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-13",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "360"
+    },
+    {
+      "date": "2026-4-14",
+      "title": "GA Tuesday: Birthday month",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KPNE Fly-in KFFA > KPHF > KACY > KPNE\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-14apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/56295804-2ff6-491c-b8b4-59bac62868fb/GAT2_16x9_club_birthday.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-15",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-16",
+      "title": "Thursdays in Toronto",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Lets fly a small plane into / out of Canada\nKART > CYOO > KROC > CYXU\nhttps://vatcan.ca/division/event/1108",
+      "image": "https://canada.ams3.digitaloceanspaces.com/events/new-event-1773606692.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-17",
+      "title": "Boxed-in FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "MD-11 - KBIL > KPDX > ???\nhttps://forums.vatusa.net/index.php?topic=12356.0\nhttps://www.thepilotclub.org/dispatch/fno-17apr2026",
+      "image": "https://live.staticflickr.com/65535/55190671249_491ac5c2f7_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-18",
+      "title": "Indy Center - Red Wings Rampage (KDTW)",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Fly to or from KDTW through Indy Center airspace\nhttps://forums.vatusa.net/index.php?topic=12366.0\nhttps://flyindycenter.com/events/45e6fd46-a57d-49d0-a071-de5fcb6362d3",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KHHKFHG1DF14S21W5DG2TGB3.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-19",
+      "title": "Need for Speed: Carbon",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "This stream could also be delayed a little longer. A game from my childhood: Need For Speed Carbon.",
+      "image": "https://live.staticflickr.com/65535/55164823448_3fe856d3b7_b.jpg",
+      "offset": "180"
+    },
+    {
+      "date": "2026-4-20",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "360"
+    },
+    {
+      "date": "2026-4-21",
+      "title": "Lakeland Fly-in",
+      "category": "flying",
+      "startTime": "19:30",
+      "description": "Fly-in to KLAL. This is also my birthday\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-25apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/8243fecf-0caf-49a9-9c9f-255022ebe44b/sun-n-fun-2026.jpeg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-22",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12384.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-23",
+      "title": "Tucson Fly-in Thursday",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "The Pilot Club is flying into KTUS\nKPSP > KSAN > KTUS\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-23apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/fb4580b1-c35b-4016-baf4-4225d73689ba/SBR_FIT2_16x9_birthday_2026.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-24",
+      "title": "No Stream: CTP tomorrow",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream since I will be controlling CTP early tomorrow morning",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-25",
+      "title": "Cross The Pond day",
+      "category": "atc",
+      "startTime": "6:50",
+      "description": "I will be controling a portion of Indy Center. This will cover some ATL and DFW departures depending on which sectors I am specifically covering.",
+      "image": "https://ctp.nyc3.digitaloceanspaces.com/01KJ8JGXJRBMX4NQPADN8W3NGV.png",
+      "offset": "360"
+    },
+    {
+      "date": "2026-4-26",
+      "title": "Sunday Funday - SWA Co-op",
+      "category": "flying",
+      "startTime": "14:00",
+      "description": "Were flying 2 legs: KDAL > KHOU > KDAL\nIm starting early because there will be lots of pilots flying this.\nhttps://www.thepilotclub.org/dispatch/sunday-funday-26apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/c3bc1e4e-379f-4eb1-bb2c-b8f4898baabf/SF_16x9coop-tpc-sw_6.png",
+      "offset": "240"
+    },
+    {
+      "date": "2026-4-27",
+      "title": "Anchorage Center with SlantAlphaAdventures",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Slant Alpha Adventures plans to staff Anchorage approach, so I will staff the center and be a mentor if he has questions\nhttps://www.twitch.tv/slantalphaadventures",
+      "image": "",
+      "offset": "360"
+    },
+    {
+      "date": "2026-4-28",
+      "title": "Anchorage Center Tuesday",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly in America's largest state!",
+      "image": "",
+      "offset": "360"
+    },
+    {
+      "date": "2026-4-29",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-30",
+      "title": "Rock The lakefront - CLE event",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "I'm staffing Indy Center for ZOB's event in CLE\nhttps://flyindycenter.com/events/1f2dfbd6-f862-4b23-96c2-58fbaec889af\nhttps://forums.vatusa.net/index.php?topic=12332.0",
+      "image": "https://clevelandcenter.org/files/events/32554545.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-1",
+      "title": "Memphis in May FNO - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Memphis will be stacked today\nhttps://forums.vatusa.net/index.php?topic=12358.0\nhttps://flyindycenter.com/events/a79a6137-2bfd-42b2-b8ad-281705e3e09b",
+      "image": "https://live.staticflickr.com/65535/55220438796_777672491e_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-2",
+      "title": "CalScream",
+      "category": "flying",
+      "startTime": "18:45",
+      "description": "SWA2806, KSJC > KLAS then SWA2735 KLAS > KRNO\nBook your slots here: https://calscream.com\nhttps://forums.vatusa.net/index.php?topic=12249.0",
+      "image": "https://live.staticflickr.com/65535/55220691904_1a3c48e9e4_b.jpg",
+      "offset": "240"
+    },
+    {
+      "date": "2026-5-3",
+      "title": "Need for Speed: Carbon",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "A game from my childhood: Need For Speed Carbon.",
+      "image": "https://live.staticflickr.com/65535/55164823448_3fe856d3b7_b.jpg",
+      "offset": "180"
+    },
+    {
+      "date": "2026-5-4",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "360"
+    },
+    {
+      "date": "2026-5-5",
+      "title": "Anchorage Center Tuesday",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly in America's largest state!",
+      "image": "",
+      "offset": "360"
+    },
+    {
+      "date": "2026-5-6",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12373.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-7",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I now have my Memphis Center cert. I'll staff the center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
@@ -49,6 +1156,10 @@
     "other": {
       "color": "#dfeded",
       "icon": "tooltip-question"
+    },
+    "no stream": {
+      "color": "#A600EB",
+      "icon": "alpha-n-box"
     }
   }
 }
